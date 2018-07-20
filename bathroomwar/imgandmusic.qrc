@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+	<file>img/bathroom.jpg</file>
+	<file>img/bathroom.gif</file>
+	<file>img/forbidhuman.gif</file>
+	<file>img/battlekaishi.gif</file>
+	<file>img/endgame.gif</file>
+	<file>img/magic0.gif</file>
+	<file>img/magic1.gif</file>
+	<file>img/magic2.gif</file>
+	<file>img/magic3.gif</file>
+	<file>img/magic4.gif</file>
+	<file>img/magic5.gif</file>
+	<file>img/toilet.gif</file>
+	<file>img/losewar.gif</file>
+	<file>img/winwar.gif</file>
+	<file>img/evengame.gif</file>
+	<file>img/clock.gif</file>
+	<file>img/clock1.gif</file>
+	<file>img/bathroomstart.gif</file>
+	<file>img/humanbeing1.gif</file>
+	<file>img/humanbeing2.gif</file>
+	<file>img/cockroach.gif</file>
+	<file>img/x.gif</file>
+	<file>img/gameinstruction.png</file>
+	<file>img/liquidsoap1.gif</file>
+	<file>img/liquidsoap2.gif</file>
+	<file>img/liquidsoap3.gif</file>
+	<file>img/liquidsoap4.gif</file>
+	<file>img/poop.gif</file>
+
+    </qresource>
+</RCC>
+
+
